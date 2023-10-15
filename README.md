@@ -1,6 +1,6 @@
 # Population-aggregation-in-ancient-arid-environments
 
-An up-to-date version of the Janssen's 2010 NetLogo model "Population aggregation in ancient arid environments"
+An up-to-date version of Janssen's 2010 NetLogo model "Population aggregation in ancient arid environments"
 
 The purpose of this model is to help understand how prehistoric societies adapted to the prehistoric American southwest landscape. In the American southwest there is a high degree of environmental variability and uncertainty, like in other arid and semiarid regions. With the model one can explore how various assumptions concerning social processes affect the level of aggregation, population size and distribution of settlements.
 
